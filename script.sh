@@ -4,9 +4,9 @@ TIMEFORMAT="время выполнения %lR"
 time {
 CURRENTDATE=`date +"%d%m%Y"`
 # Путь до папки какую архивируем
-SOURCE_DIR=''
+SOURCE_DIR='/home/user/'
 # Путь где сохранить архив
-TARGET_DIR=''
+TARGET_DIR='/media/ssd/Data/'
 # Имя архива
 FILE_NAME=${TARGET_DIR}${CURRENTDATE}.tar
 # Начало архивации
