@@ -1,5 +1,3 @@
-Архивирование папки
-
 Anacron Example
 
 # cat /etc/anacrontab
